@@ -1,0 +1,6 @@
+[
+    { 
+    	"caption": "Make Latex Macro from selection", 
+    	"command": "make_latex_macro" 
+    }
+]
